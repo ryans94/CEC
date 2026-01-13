@@ -1,5 +1,4 @@
-,,Grants | College of Engineering and Computing,,,,,,
-Grant ID (PK),Funding $,Sponsor Title,Awardee,Title,Date,Department,Department_ID,Department Inferred
+grant_id,funding,sponsor,awardee,title,date,department,department_id,department inferred
 G00001,45000,National Aeronautics and Space Administration (NASA),Lance C. Sherry,Regulatory Ontology and Compliance Assessment Suite (ROCAS),2026-01-12,Systems Engineering and Operations Research ,D00001,Yes
 G00002,100000,Virginia Innovation Partnership Authority,Kai Zeng,Secure 6G Infrastructure for Integrated Sensing and Communication,2026-01-12,Electrical and Computer Engineering,D00002,Yes
 G00003,100000,Virginia Innovation Partnership Authority,Lannan Luo,AI-Powered Video and Audio Side Channels for Cyber-Physical Anomaly,2026-01-12,Computer Science,D00003,Yes
