@@ -1,199 +1,195 @@
-grant_id,funding,sponsor,awardee,title,date,department_id
-G00001,45000,National Aeronautics and Space Administration (NASA),Lance C. Sherry,Regulatory Ontology and Compliance Assessment Suite (ROCAS),2026-01-12,D00001
-G00002,100000,Virginia Innovation Partnership Authority,Kai Zeng,Secure 6G Infrastructure for Integrated Sensing and Communication,2026-01-12,D00002
-G00003,100000,Virginia Innovation Partnership Authority,Lannan Luo,AI-Powered Video and Audio Side Channels for Cyber-Physical Anomaly,2026-01-12,D00003
-G00004,160000,BARD,Lizhi Wang,Creation and validation of a digital twin model for improving almond production,2026-01-12,D00004
-G00005,150793,Virginia Innovation Partnership Authority,Liza Price Wilson Durant,CCI Scholars – High School Experiential Learning Program,2026-01-12,D00005
-G00006,41666,U.S. Department of Defense (DOD),Sean O. Luke,Uses of OSINT & PAI in Conjunction with AI/LLMs for Decision Support Modeling,2026-01-05,D00003
-G00007,98500,U.S. Department of Defense (DOD),Jose Bricio Neto,Quick Look Study of U.S. Marine Corps Wargaming and Analysis Capability with Recommendations,2026-01-05,D00002
-G00008,2500000,Virginia Innovation Partnership Authority,Liza Price Wilson Durant,NoVA Node CCI FY26 Initiatives,2026-01-05,D00005
-G00009,100000,Virginia Innovation Partnership Corporation,Michael Atef Yassa Girgis,Quantitative Isotopically Labeled Tags for Precise Proteomic Analysis via Mass Spectrometry,2026-01-05,D00004
-G00010,100000,Virginia Innovation Partnership Authority,Shima Mohebbi; Babak Aslani,Scalable AI-driven Cybersecurity for Small and Medium Critical Manufacturing,2026-01-05,D00003
-G00011,15000,Virginia Tech,Kai Zeng,O-RAN-Compatible Software Radio for Secure and Resilient Mid- to High-Frequency Spectrum Operation,2026-01-05,D00002
-G00012,100000,Virginia Innovation Partnership Authority,Md Tanvir Arafin,CASPER: Cyber-Analog Sensing for Protecting Critical Energy Infrastructure,2026-01-05,D00002
-G00013,1500000,Virginia Energy Department of Energy,Liling Huang,Funding Virginia Research AI Data Center Lab,2026-01-05,D00003
-G00014,10000,National Institutes of Health (NIH),Siddhartha Sikdar,Cohort 3 NIH - Blueprint MedTech (BPMT) Seedling Program,2025-12-08,D00004
-G00015,93521,U.S. Department of the Navy,Mehdi Amiri Darehbidi,Advanced Fretting Fatigue Life Prediction Method for Naval Aerospace Applications,2025-12-08,D00006
-G00016,13456,U.S. Department of Defense (DOD),Nicholas Kent Clark,SDR Analysis for Distributed Computing,2025-12-08,D00002
-G00017,75000,National Institutes of Health (NIH),Siddhartha Sikdar,Research and Training in Complementary and Alternative Medicine,2025-12-01,D00004
-G00018,54381,U.S. Department of Defense (DOD),Nicholas Kent Clark,SCA to Support Time Series Analysis Research,2025-12-01,D00002
-G00019,225878,National Institutes of Health (NIH),Abolfazl Safikhani,Statistical Machine Learning to Develop Connectome-Based Biomarkers of Alzheimer's Disease and Related Dementias,2025-12-01,D00007
-G00020,24821,U.S. Geological Survey,Celso Moller Ferreira,Sanitation infrastructure in vulnerable communities: water security flooding resilience septic systems,2025-12-01,D00008
-G00021,296998,Department of Defense (DOD),Ali Khalid Raz; Marc Sasseville,Integrated Photonics for Sustained Operations Project – Phase III,2025-11-17,D00002
-G00022,234986,Federal Aviation Administration (FAA),Lance C. Sherry,NEXTOR III: FAA Section 765 Regional Airport Capacity Study,2025-11-17,D00001
-G00023,77500,National Science Foundation (NSF),Elise D. Miller Hooks; Emma Zhang; Celso Moller Ferreira,Alaska Innovation Incubator for Resilient and Smart Infrastructure,2025-11-10,D00008
-G00024,230000,U.S. Department of Energy,Maryam Parsa; Giorgio Ascoli,GAINS: Generalizable Analog Izhikevich-Based Neuromorphic Spintronics,2025-11-03,D00003
-G00025,43000,U.S. Department of the Navy,Bob Elder,DAPSE 2.0 Integration into CCMD Joint Planning Processes (JPP),2025-11-03,D00001
-G00026,83542,Virginia Transportation Research Council,Burak Tanyu,Collection of Instrumentation Data From the CHCC Base Course Field Project,2025-11-03,D00008
-G00027,85360,National Institutes of Health (NIH),Susannah Engdahl,Towards Human-Centered Rehabilitation and Upper Limb Prostheses,2025-10-27,D00004
-G00028,274001,National Science Foundation (NSF),Elise D. Miller,Risk-based Real-Options Approach for Infrastructure Systems Protection Investment,2025-10-27,D00001
-G00029,77000,Naval Sea Systems Command,Marcos Zampieri,BRIDGE: Bridging Redundant Information for Data Governance and Efficiency,2025-10-27,D00003
-G00030,9500,George Mason University Foundation,Pei Dong,Advanced Heat Transfer Fluids for Modern Engines and E-Vehicles Cooling System,2025-10-13,D00006
-G00031,2543,National Science Foundation (NSF),Bo Han,NSF Workshop on Networking and Systems Challenges in Immersive Computing,2025-10-13,D00003
-G00032,275000,National Science Foundation (NSF),Md Tanvir Arafin,Secure Accelerators for Next-Generation Foundation Models (SAGE),2025-10-06,D00002
-G00033,500000,National Science Foundation (NSF),Elise D. Miller,Transforming Urban Underground Infrastructure,2025-10-06,D00008
-G00034,430000,National Science Foundation (NSF),Aditya Johri,Developing AI Literacy Among Undergraduate Engineering Students,2025-10-06,D00005
-G00035,1020000,Air Force Research Laboratory,Brett W. Josephson; Cameron Nowzari; Ali Khalid Raz; Daigo Shishika; Shima Mohebbi,AFCENT CEC Applied Research,2025-10-06,D00003
-G00036,55000,The Bernd Group,Ali Khalid Raz,MARAAI: Mission Assurance Reference Architecture for Autonomy Integration,2025-10-06,D00003
-G00037,380000,National Science Foundation (NSF),Weiwen Jiang; Lei Yang,QuAIM: Quantum Cyberinfrastructure with Automated Implementation Toolkits,2025-10-02,D00003
-G00038,544335,National Oceanic & Atmospheric Administration (NOAA),Celso Moller Ferreira,Developing Arctic Coastal Protection Solutions,2025-10-02,D00008
-G00039,250000,National Science Foundation (NSF),Weiwen Jiang,Synthesis Profiling and Verification of Quantum Circuits,2025-10-02,D00003
-G00040,4649740,National Institutes of Health (NIH),Siddhartha Sikdar,Network Modeling of Chronic Musculoskeletal Pain,2025-10-02,D00004
-G00041,1250000,National Science Foundation (NSF),Hemant Purohit,Resilient Sheltering Decision Support Using Explainable AI,2025-10-02,D00003
-G00042,934614,National Science Foundation (NSF),Ethan C. Ahn; Nathalia Peixoto; Jessica Rosenberg; Jill Nelson,RENEW: Nanofabrication Workforce Education,2025-10-02,D00004
-G00043,105885,Office of Naval Research (ONR),Ali Beheshti,Finite Element Crack Initiation and Propagation for Gear Steel,2025-09-22,D00006
-G00044,260550,U.S. Department of Defense,Massimiliano Albanese; Sushil Jajodia,DoD Cyber Service Academy,2025-09-22,D00003
-G00045,502222,National Science Foundation (NSF),Quentin Sanders,Continuous Fiber Prostheses for Children with Amputation,2025-09-15,D00004
-G00046,320000,National Science Foundation (NSF),Bo Han; Songqing Chen,OpenCIVAN Immersive Visualization Ecosystem,2025-09-15,D00003
-G00047,50000,Datalytica LLC,Duminda Wijesekera,Operational Technology Digital Twin and Scanning Support,2025-09-15,D00003
-G00048,8000,American Society for Engineering Education (ASEE),Shima Mohebbi,Engineering for One Planet Mini-Grant Program,2025-09-15,D00003
-G00049,150000,Defense Advanced Research Projects Agency (DARPA),Missy Cummings,Autonomy Standards and Ideals with Military Operational Values (ASIMOV),2025-09-08,D00005
-G00050,200000,National Science Foundation (NSF),Md Tanvir Arafin,CyberSTAR CyberTraining for Secure Transportation Autonomy,2025-09-08,D00002
-G00051,199910,Northern Virginia Emergency Response System,Shima Mohebbi; Michael R. Hieb,Drone as First Responder Feasibility Study,2025-09-08,D00003
-G00052,69904,U.S. Department of the Navy,Jose Bricio Neto,Persistent Airborne Counter UAS Surveillance,2025-09-02,D00002
-G00053,15000,National Science Foundation (NSF),Weiwen Jiang; Lei Yang,Quantum System Stability and Reproducibility Workshop,2025-08-25,D00003
-G00054,500000,National Science Foundation (NSF),Ziwei Zhu,Interpretable Neuro-Symbolic Learning for Reliable Ranking,2025-08-25,D00003
-G00055,99750,U.S. Department of the Army,Maryam Parsa,Automotive Research Center Modeling and Simulation,2025-08-25,D00006
-G00056,100000,National Science Foundation (NSF),Fei Li,Quantum Algorithms for Single-Cell Omics and Drug Discovery,2025-08-25,D00004
-G00057,296927,National Institutes of Health (NIH),Ningshi Yao,Robotic Eyes for Studying Human Eye Movement and Strabismus,2025-08-18,D00004
-G00058,512787,National Science Foundation (NSF),Shaghayegh Bagheri; Ali Beheshti; Caroline Dieckmann Hoemann,MRI: Acquisition of a 3D X-Ray Computed Tomography Scanner,2025-08-11,D00006
-G00059,45000,National Science Foundation (NSF),Kun Sun,CIRC Planning: Software Vulnerability Detection and Remediation Infrastructure,2025-08-03,D00003
-G00060,94711,Metal Improvement Company LLC,Ali Beheshti,Tribo-Corrosion Study of Nickel-Based Superalloys under Laser Peening,2025-08-03,D00006
-G00061,274265,National Science Foundation (NSF),Keren Zhou,DLToolkit: Performance Profiling Infrastructure for Scientific Deep Learning,2025-07-28,D00003
-G00062,599956,National Science Foundation (NSF),Antonis Anastasopoulos,CAREER: Grammar-Based Language Technologies for Data-Scarce Languages,2025-07-28,D00003
-G00063,275000,National Science Foundation (NSF),Bo Han,NeTS: Neural Content Representation for Immersive Video Streaming,2025-07-28,D00003
-G00064,50000,XSOC Corporation,Duminda Wijesekera; Matthew Jablonski,SENTINEL: Side-Channel Evaluation Techniques,2025-07-28,D00003
-G00065,300000,Virginia Innovation Partnership Authority,Liza Price Wilson Durant,CATAPULT: University-Linked Technology Acceleration,2025-07-28,D00005
-G00066,500000,Virginia Innovation Partnership Authority,Liza Price Wilson Durant,Commonwealth Cyber Initiative+ FY25,2025-07-28,D00005
-G00067,164834,Defense Advanced Research Projects Agency (DARPA),Peter Paris,Next Generation Electronic Surveillance Technology (NGEST),2025-07-14,D00002
-G00068,150000,Defense Advanced Research Projects Agency (DARPA),Missy Cummings,Autonomy Standards and Ideals with Military Operational Values,2025-07-14,D00005
-G00069,78619,Virginia Innovation Partnership Authority,Liza Price Wilson Durant,Cybersecurity Field Training Experience (C-FTE),2025-07-07,D00005
-G00070,450000,Virginia Innovation Partnership Authority,Liza Price Wilson Durant,Commonwealth Cyber Initiative Fellow Program,2025-07-07,D00005
-G00071,34596,U.S. Department of Defense (DOD),Nicholas Kent Clark,Time Series Analysis Distributed Computing,2025-06-16,D00002
-G00072,75000,Virginia Innovation Partnership Authority,Foteini Baldimtsi,Combating Cryptographic Risk,2025-06-16,D00003
-G00073,75000,Virginia Innovation Partnership Authority,Kun Sun,Securing Computer Code using Dynamic Digital Signatures,2025-06-16,D00003
-G00074,75000,Virginia Innovation Partnership Authority,Brian L. Mark; Kai Zeng,Secure Mesh Communications with Multi-Protocol Handover,2025-06-16,D00002
-G00075,75000,Virginia Innovation Partnership Authority,Massieh Kordi Boroujeny; Kai Zeng,Distortion-Free Multi-bit Watermarking for Large Language Models,2025-06-16,D00002
-G00076,75000,Virginia Innovation Partnership Authority,Mingkui Wei,Obfuscating Text and Images for Data Loss Prevention,2025-06-16,D00003
-G00077,442147,Virginia Innovation Partnership Authority,Liza Price Wilson Durant,CCI Traineeship Program in Cybersecurity,2025-06-16,D00005
-G00078,50000,National Science Foundation (NSF),Bo Han,I-Corps: Immersive Telepresence Translation Potential,2025-05-27,D00003
-G00079,295081,National Science Foundation (NSF),Thanhvu H. Nguyen,CAREER: NeuralSAT Constraint-Solving Framework,2025-05-19,D00003
-G00080,1122655,National Institutes of Health (NIH),Lily Wang,Interpretable Statistical Learning for Brain Imaging,2025-05-19,D00007
-G00081,350000,Air Force Research Laboratory (AFRL),Ali Khalid Raz,MEADOW: Distributed Optimal Workflow Algorithms,2025-05-05,D00003
-G00082,200000,U.S. Department of Energy (DOE),Weiwen Jiang,MACH-Q Quantum Software Stack,2025-05-05,D00003
-G00083,275000,Virginia Department of Energy,Liling Huang,Installation of E2 Energy Exploration Center,2025-05-05,D00002
-G00084,1500,U.S. Department of Defense (DOD),Rochelle R. Jones,Drone Detection and ID Market Survey,2025-04-14,D00001
-G00085,42000,University of Virginia,Zhuangdi Zhu,Federated Learning for Secure Threat Detection,2025-04-14,D00003
-G00086,454079,Naval Sea Systems Command,Antonis Anastasopoulos,STTR Phase II: Digital Engineering Knowledge Extraction,2025-04-07,D00003
-G00087,60000,Air Force Research Laboratory,Missy Cummings,Machine Learning for Space Situation Awareness,2025-03-31,D00005
-G00088,112000,Griffiss Institute,Kamaljeet Sanghera; Mihai Boicu,AI Defense Opportunities for Students,2025-03-31,D00003
-G00089,75000,Federal Highway Administration (FHWA),Duminda Wijesekera,Driving Simulator Support Research Phase I,2025-03-17,D00003
-G00090,65648,U.S. Department of Energy (DOE),Keren Zhou,GPU Modeling for HPC Smart Simulation,2025-03-10,D00003
-G00091,10000,National Institutes of Health (NIH),Jenny M. Phan,AIM-AHEAD Training Program Cohort,2025-03-10,D00009
-G00092,100000,Virginia Innovation Partnership Authority,Liza Price Wilson Durant,CCI Experiential Learning in Cybersecurity,2025-03-03,D00005
-G00093,274000,National Science Foundation (NSF),Quentin Sanders,Advanced Prosthetic Socket Technologies for Pediatric Patients,2025-03-03,D00004
-G00094,85000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Advanced RF Signal Characterization for Distributed Sensing,2025-02-24,D00002
-G00095,510000,National Institutes of Health (NIH),Siddhartha Sikdar,Neuromechanics-Based Assessment of Movement Disorders,2025-02-24,D00004
-G00096,300000,National Science Foundation (NSF),Bo Han,Collaborative Research: Next-Gen Immersive Communication Systems,2025-02-24,D00003
-G00097,125000,Office of Naval Research (ONR),Ali Beheshti,Advanced Gear Surface Durability and Failure Modeling,2025-02-10,D00006
-G00098,75000,Virginia Innovation Partnership Authority,Kun Sun,Trusted Compiler Infrastructure for Secure Systems,2025-02-10,D00003
-G00099,500000,National Science Foundation (NSF),Emma Zhang,CAREER: Data-Centric Infrastructure for Sustainable Urban Systems,2025-02-10,D00008
-G00100,98000,National Science Foundation (NSF),Antonis Anastasopoulos,Planning Grant: Language Technologies for Underrepresented Communities,2025-02-03,D00003
-G00101,60000,George Mason University Foundation,Pei Dong,Phase-Change Thermal Management for Aerospace Electronics,2025-01-27,D00006
-G00102,220000,National Institutes of Health (NIH),Abolfazl Safikhani,Multimodal Biomarkers for Early Alzheimer’s Detection,2025-01-27,D00007
-G00103,150000,Defense Advanced Research Projects Agency (DARPA),Missy Cummings,Human-Autonomy Teaming Metrics and Validation,2025-01-21,D00005
-G00104,90000,U.S. Department of the Navy,Jose Bricio Neto,Autonomous Maritime Surveillance Using UAV Swarms,2025-01-21,D00002
-G00105,120000,National Science Foundation (NSF),Keren Zhou,Efficient Parallel Training for Large-Scale Scientific AI Models,2025-01-13,D00003
-G00106,45000,U.S. Department of Transportation (USDOT),Lance C. Sherry,Airport Surface Operations Optimization Study,2025-01-13,D00001
-G00107,125000,National Science Foundation (NSF),Ziwei Zhu,Robust Ranking Algorithms under Distribution Shift,2024-12-09,D00003
-G00108,85000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Distributed Spectrum Monitoring for Resilient Communications,2024-12-09,D00002
-G00109,300000,National Institutes of Health (NIH),Siddhartha Sikdar,Neuromechanics-Based Wearable Sensing for Rehabilitation,2024-12-02,D00004
-G00110,210000,National Science Foundation (NSF),Bo Han,Collaborative Research: Edge Intelligence for Immersive Media Systems,2024-11-25,D00003
-G00111,60000,Office of Naval Research (ONR),Ali Beheshti,Fatigue Crack Growth Modeling for Naval Gear Systems,2024-11-18,D00006
-G00112,500000,National Science Foundation (NSF),Emma Zhang,Data-Driven Resilience of Urban Infrastructure Networks,2024-11-18,D00008
-G00113,72000,George Mason University Foundation,Pei Dong,Advanced Thermal Interfaces for Electric Propulsion Systems,2024-11-04,D00006
-G00114,45000,U.S. Department of Energy (DOE),Weiwen Jiang,Quantum Software Toolchains for Scalable HPC,2024-10-28,D00003
-G00115,180000,National Science Foundation (NSF),Antonis Anastasopoulos,Low-Resource Language Processing for Crisis Response,2024-10-21,D00003
-G00116,95000,National Institutes of Health (NIH),Abolfazl Safikhani,Statistical Learning for Neurodegenerative Disease Progression,2024-10-14,D00007
-G00117,275000,National Science Foundation (NSF),Quentin Sanders,Adaptive Pediatric Prosthetics using Soft Robotics,2024-09-30,D00004
-G00118,400000,Air Force Research Laboratory (AFRL),Ali Khalid Raz,Distributed Autonomous Systems for Contested Environments,2024-09-16,D00003
-G00119,120000,National Science Foundation (NSF),Keren Zhou,Scalable Training Pipelines for Scientific Foundation Models,2024-09-09,D00003
-G00120,95000,U.S. Department of Transportation (USDOT),Lance C. Sherry,NextGen Air Traffic Management Simulation,2024-08-26,D00001
-G00121,250000,National Science Foundation (NSF),Bo Han,Trustworthy AI for Immersive Telepresence Systems,2024-08-19,D00003
-G00122,65000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Adaptive Signal Processing for Tactical Networks,2024-08-12,D00002
-G00123,300000,National Institutes of Health (NIH),Siddhartha Sikdar,Neural Control of Movement for Rehabilitation Robotics,2024-07-29,D00004
-G00124,90000,Office of Naval Research (ONR),Ali Beheshti,Advanced Surface Engineering for High-Cycle Fatigue Resistance,2024-07-15,D00006
-G00125,200000,National Science Foundation (NSF),Ziwei Zhu,Learning-to-Rank Models for Information Retrieval at Scale,2024-06-24,D00003
-G00126,110000,George Mason University Foundation,Pei Dong,High-Performance Cooling for Power Electronics,2024-06-10,D00006
-G00127,50000,National Science Foundation (NSF),Antonis Anastasopoulos,Workshop on Language Technologies for Humanitarian Applications,2024-05-20,D00003
-G00128,175000,National Institutes of Health (NIH),Abolfazl Safikhani,Multimodal Statistical Models for Brain Connectivity Analysis,2024-04-22,D00007
-G00129,80000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Secure Waveform Design for Distributed Sensing,2024-04-08,D00002
-G00130,60000,Federal Highway Administration (FHWA),Lance C. Sherry,Resilient Transportation Infrastructure Simulation Models,2024-03-25,D00001
-G00131,140000,National Science Foundation (NSF),Bo Han,Collaborative Research: Edge-Aware Immersive Analytics,2024-02-12,D00003
-G00132,95000,Office of Naval Research (ONR),Ali Beheshti,Probabilistic Modeling of Surface Degradation in Naval Systems,2024-01-29,D00006
-G00133,180000,National Institutes of Health (NIH),Siddhartha Sikdar,Quantitative Assessment of Muscle Coordination in Neurological Disorders,2024-01-22,D00004
-G00134,220000,National Science Foundation (NSF),Emma Zhang,Data-Driven Flood Risk Modeling for Urban Infrastructure,2024-01-08,D00008
-G00135,60000,U.S. Department of Transportation (USDOT),Lance C. Sherry,Airport Capacity and Delay Modeling Using Data Analytics,2023-12-11,D00001
-G00136,125000,National Science Foundation (NSF),Antonis Anastasopoulos,Language Technologies for Crisis Mapping and Response,2023-11-27,D00003
-G00137,95000,National Institutes of Health (NIH),Abolfazl Safikhani,Statistical Models of Brain Network Degeneration,2023-11-13,D00007
-G00138,300000,Air Force Research Laboratory (AFRL),Ali Khalid Raz,Distributed Decision-Making for Autonomous Defense Systems,2023-10-30,D00003
-G00139,75000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Resilient RF Signal Processing for Contested Environments,2023-10-16,D00002
-G00140,200000,National Science Foundation (NSF),Ziwei Zhu,Robust Learning-to-Rank for Adversarial Information Retrieval,2023-10-02,D00003
-G00141,100000,Office of Naval Research (ONR),Ali Beheshti,Advanced Gear Fatigue Modeling under Variable Loads,2023-09-18,D00006
-G00142,275000,National Science Foundation (NSF),Quentin Sanders,Soft Robotic Prosthetic Interfaces for Pediatric Care,2023-09-05,D00004
-G00143,120000,National Science Foundation (NSF),Keren Zhou,Scalable Optimization Methods for Scientific Machine Learning,2023-08-21,D00003
-G00144,85000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Adaptive Spectrum Utilization for Tactical Communications,2023-08-07,D00002
-G00145,50000,National Science Foundation (NSF),Antonis Anastasopoulos,Workshop on Low-Resource Language Technologies,2023-07-24,D00003
-G00146,190000,National Institutes of Health (NIH),Siddhartha Sikdar,Neuromuscular Control Modeling for Injury Prevention,2023-07-10,D00004
-G00147,65000,George Mason University Foundation,Pei Dong,High-Efficiency Thermal Systems for Aerospace Platforms,2023-06-26,D00006
-G00148,180000,National Science Foundation (NSF),Bo Han,Immersive Analytics Platforms for Smart Cities,2023-06-12,D00003
-G00149,95000,Office of Naval Research (ONR),Ali Beheshti,Surface Integrity Modeling for Naval Mechanical Systems,2023-05-22,D00006
-G00150,210000,National Institutes of Health (NIH),Siddhartha Sikdar,Neuromuscular Sensing for Rehabilitation and Human Performance,2023-05-08,D00004
-G00151,125000,National Science Foundation (NSF),Antonis Anastasopoulos,Language Technologies for Disaster Response Coordination,2023-04-17,D00003
-G00152,75000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Adaptive RF Waveform Design for Distributed Sensing Networks,2023-03-27,D00002
-G00153,300000,Air Force Research Laboratory (AFRL),Ali Khalid Raz,Autonomous Mission Planning under Communication Constraints,2023-03-13,D00003
-G00154,200000,National Science Foundation (NSF),Ziwei Zhu,Learning-to-Rank Algorithms for Large-Scale Retrieval Systems,2023-02-27,D00003
-G00155,85000,National Institutes of Health (NIH),Abolfazl Safikhani,Statistical Modeling of Functional Brain Connectivity,2023-02-13,D00007
-G00156,110000,U.S. Department of Transportation (USDOT),Lance C. Sherry,Data-Driven Models for Airport Congestion Mitigation,2023-01-30,D00001
-G00157,60000,George Mason University Foundation,Pei Dong,Advanced Heat Dissipation Technologies for Power Electronics,2023-01-16,D00006
-G00158,175000,National Science Foundation (NSF),Quentin Sanders,Soft Prosthetic Interfaces for Pediatric Rehabilitation,2022-12-05,D00004
-G00159,95000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Secure Distributed Signal Processing Architectures,2022-11-14,D00002
-G00160,250000,National Science Foundation (NSF),Emma Zhang,Resilient Infrastructure Modeling under Climate Uncertainty,2022-10-24,D00008
-G00161,120000,National Institutes of Health (NIH),Siddhartha Sikdar,Modeling Human Movement Variability for Injury Prevention,2022-09-12,D00004
-G00162,90000,Office of Naval Research (ONR),Ali Beheshti,Fatigue and Wear Prediction in High-Load Gear Systems,2022-08-22,D00006
-G00163,200000,National Science Foundation (NSF),Antonis Anastasopoulos,Computational Linguistics for Low-Resource Languages,2022-07-11,D00003
-G00164,70000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Adaptive Spectrum Sharing for Tactical Networks,2022-06-06,D00002
-G00165,150000,National Science Foundation (NSF),Ziwei Zhu,Robust Ranking Models for Noisy Information Environments,2022-05-02,D00003
-G00166,95000,National Institutes of Health (NIH),Abolfazl Safikhani,Statistical Analysis of Neurodegenerative Disease Progression,2022-04-11,D00007
-G00167,60000,U.S. Department of Transportation (USDOT),Lance C. Sherry,Simulation-Based Evaluation of Airport Operations,2022-03-14,D00001
-G00168,85000,George Mason University Foundation,Pei Dong,Advanced Thermal Management for Electric Aircraft Systems,2022-02-07,D00006
-G00169,100000,National Science Foundation (NSF),Bo Han,Immersive Communication Systems for Collaborative Analytics,2022-01-10,D00003
-G00170,90000,National Science Foundation (NSF),Antonis Anastasopoulos,Computational Tools for Language Preservation in Crisis Contexts,2022-01-03,D00003
-G00171,140000,National Institutes of Health (NIH),Siddhartha Sikdar,Sensor-Based Modeling of Neuromuscular Coordination,2021-12-06,D00004
-G00172,200000,National Science Foundation (NSF),Ziwei Zhu,Learning-to-Rank Methods for Robust Information Retrieval,2021-11-15,D00003
-G00173,85000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Adaptive RF Architectures for Distributed Sensing,2021-10-18,D00002
-G00174,110000,Office of Naval Research (ONR),Ali Beheshti,Modeling Gear Contact Fatigue under Extreme Loading,2021-09-20,D00006
-G00175,175000,National Institutes of Health (NIH),Abolfazl Safikhani,Statistical Modeling of Functional Brain Networks in Aging,2021-08-23,D00007
-G00176,250000,National Science Foundation (NSF),Emma Zhang,Infrastructure Resilience Modeling for Climate Adaptation,2021-07-26,D00008
-G00177,60000,U.S. Department of Transportation (USDOT),Lance C. Sherry,Data-Driven Assessment of Airport Operational Resilience,2021-06-14,D00001
-G00178,95000,George Mason University Foundation,Pei Dong,Advanced Thermal Systems for Electric Aviation,2021-05-17,D00006
-G00179,150000,National Science Foundation (NSF),Bo Han,Immersive Analytics Frameworks for Distributed Collaboration,2021-04-12,D00003
-G00180,120000,National Institutes of Health (NIH),Siddhartha Sikdar,Neuromechanical Modeling for Post-Stroke Rehabilitation,2021-03-08,D00004
-G00181,70000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Resilient Spectrum Sharing Techniques for Tactical Networks,2021-02-08,D00002
-G00182,100000,National Science Foundation (NSF),Antonis Anastasopoulos,Low-Resource Language Processing for Emergency Response,2021-01-11,D00003
-G00183,180000,National Science Foundation (NSF),Antonis Anastasopoulos,Low-Resource Language Technologies for Crisis Response,2020-12-07,D00003
-G00184,95000,National Institutes of Health (NIH),Siddhartha Sikdar,Musculoskeletal Ultrasound-Based Biomarkers for Rehabilitation Monitoring,2020-11-16,D00004
-G00185,210000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Distributed RF Signal Processing for Tactical Edge Networks,2020-10-19,D00002
-G00186,130000,Office of Naval Research (ONR),Ali Beheshti,Surface Integrity Modeling of Naval Propulsion Materials,2020-09-21,D00006
-G00187,275000,National Science Foundation (NSF),Bo Han,Immersive Telepresence and Networked Virtual Reality Systems,2020-08-24,D00003
-G00188,85000,National Institutes of Health (NIH),Abolfazl Safikhani,Statistical Learning Models for Neurodegenerative Disease Progression,2020-07-20,D00007
-G00189,160000,U.S. Department of Transportation (USDOT),Lance C. Sherry,Stochastic Modeling of National Airspace System Disruptions,2020-06-15,D00001
-G00190,90000,George Mason University Foundation,Pei Dong,Advanced Heat Transfer Materials for Electrified Transportation,2020-05-18,D00006
-G00191,200000,National Science Foundation (NSF),Emma Zhang,Resilient Infrastructure Analytics for Extreme Weather Events,2020-04-13,D00008
-G00192,120000,National Institutes of Health (NIH),Siddhartha Sikdar,Neuromechanical Signal Fusion for Upper Limb Rehabilitation,2020-03-09,D00004
-G00193,75000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Spectrum-Aware Architectures for Contested Communications,2020-02-10,D00002
-G00194,140000,National Science Foundation (NSF),Antonis Anastasopoulos,Computational Morphology for Under-Resourced Languages,2020-01-13,D00003
-G00195,,,,,,
-G00196,,,,,,
-G00197,,,,,,
-G00198,,,,,,
+grant_id,funding,sponsor,awardee,title,date,department_id,capabilities_id
+G00001,45000,National Aeronautics and Space Administration (NASA),Lance C. Sherry,Regulatory Ontology and Compliance Assessment Suite (ROCAS),2026-01-12,D00001,C00013
+G00002,100000,Virginia Innovation Partnership Authority,Kai Zeng,Secure 6G Infrastructure for Integrated Sensing and Communication,2026-01-12,D00002,C00012
+G00003,100000,Virginia Innovation Partnership Authority,Lannan Luo,AI-Powered Video and Audio Side Channels for Cyber-Physical Anomaly,2026-01-12,D00003,C00011
+G00004,160000,BARD,Lizhi Wang,Creation and validation of a digital twin model for improving almond production,2026-01-12,D00004,C00023
+G00005,150793,Virginia Innovation Partnership Authority,Liza Price Wilson Durant,CCI Scholars – High School Experiential Learning Program,2026-01-12,D00005,C00030
+G00006,41666,U.S. Department of Defense (DOD),Sean O. Luke,Uses of OSINT & PAI in Conjunction with AI/LLMs for Decision Support Modeling,2026-01-05,D00003,C00004
+G00007,98500,U.S. Department of Defense (DOD),Jose Bricio Neto,Quick Look Study of U.S. Marine Corps Wargaming and Analysis Capability with Recommendations,2026-01-05,D00002,C00006
+G00008,2500000,Virginia Innovation Partnership Authority,Liza Price Wilson Durant,NoVA Node CCI FY26 Initiatives,2026-01-05,D00005,C00004
+G00009,100000,Virginia Innovation Partnership Corporation,Michael Atef Yassa Girgis,Quantitative Isotopically Labeled Tags for Precise Proteomic Analysis via Mass Spectrometry,2026-01-05,D00004,C00022
+G00010,100000,Virginia Innovation Partnership Authority,Shima Mohebbi; Babak Aslani,Scalable AI-driven Cybersecurity for Small and Medium Critical Manufacturing,2026-01-05,D00003,C00010
+G00011,15000,Virginia Tech,Kai Zeng,O-RAN-Compatible Software Radio for Secure and Resilient Mid- to High-Frequency Spectrum Operation,2026-01-05,D00002,C00021
+G00012,100000,Virginia Innovation Partnership Authority,Md Tanvir Arafin,CASPER: Cyber-Analog Sensing for Protecting Critical Energy Infrastructure,2026-01-05,D00002,C00020
+G00013,1500000,Virginia Energy Department of Energy,Liling Huang,Funding Virginia Research AI Data Center Lab,2026-01-05,D00003,C00008
+G00014,10000,National Institutes of Health (NIH),Siddhartha Sikdar,Cohort 3 NIH - Blueprint MedTech (BPMT) Seedling Program,2025-12-08,D00004,C00028
+G00015,93521,U.S. Department of the Navy,Mehdi Amiri Darehbidi,Advanced Fretting Fatigue Life Prediction Method for Naval Aerospace Applications,2025-12-08,D00006,C00024
+G00016,13456,U.S. Department of Defense (DOD),Nicholas Kent Clark,SDR Analysis for Distributed Computing,2025-12-08,D00002,C00007
+G00017,75000,National Institutes of Health (NIH),Siddhartha Sikdar,Research and Training in Complementary and Alternative Medicine,2025-12-01,D00004,C00004
+G00018,54381,U.S. Department of Defense (DOD),Nicholas Kent Clark,SCA to Support Time Series Analysis Research,2025-12-01,D00002,C00003
+G00019,225878,National Institutes of Health (NIH),Abolfazl Safikhani,Statistical Machine Learning to Develop Connectome-Based Biomarkers of Alzheimer's Disease and Related Dementias,2025-12-01,D00007,C00002
+G00020,24821,U.S. Geological Survey,Celso Moller Ferreira,Sanitation infrastructure in vulnerable communities: water security flooding resilience septic systems,2025-12-01,D00008,C00025
+G00021,296998,Department of Defense (DOD),Ali Khalid Raz; Marc Sasseville,Integrated Photonics for Sustained Operations Project – Phase III,2025-11-17,D00002,C00019
+G00022,234986,Federal Aviation Administration (FAA),Lance C. Sherry,NEXTOR III: FAA Section 765 Regional Airport Capacity Study,2025-11-17,D00001,C00006
+G00023,77500,National Science Foundation (NSF),Elise D. Miller Hooks; Emma Zhang; Celso Moller Ferreira,Alaska Innovation Incubator for Resilient and Smart Infrastructure,2025-11-10,D00008,C00025
+G00024,230000,U.S. Department of Energy,Maryam Parsa; Giorgio Ascoli,GAINS: Generalizable Analog Izhikevich-Based Neuromorphic Spintronics,2025-11-03,D00003,C00017
+G00025,43000,U.S. Department of the Navy,Bob Elder,DAPSE 2.0 Integration into CCMD Joint Planning Processes (JPP),2025-11-03,D00001,C00006
+G00026,83542,Virginia Transportation Research Council,Burak Tanyu,Collection of Instrumentation Data From the CHCC Base Course Field Project,2025-11-03,D00008,C00022
+G00027,85360,National Institutes of Health (NIH),Susannah Engdahl,Towards Human-Centered Rehabilitation and Upper Limb Prostheses,2025-10-27,D00004,C00028
+G00028,274001,National Science Foundation (NSF),Elise D. Miller,Risk-based Real-Options Approach for Infrastructure Systems Protection Investment,2025-10-27,D00001,C00006
+G00029,77000,Naval Sea Systems Command,Marcos Zampieri,BRIDGE: Bridging Redundant Information for Data Governance and Efficiency,2025-10-27,D00003,C00013
+G00030,9500,George Mason University Foundation,Pei Dong,Advanced Heat Transfer Fluids for Modern Engines and E-Vehicles Cooling System,2025-10-13,D00006,C00018
+G00031,2543,National Science Foundation (NSF),Bo Han,NSF Workshop on Networking and Systems Challenges in Immersive Computing,2025-10-13,D00003,C00030
+G00032,275000,National Science Foundation (NSF),Md Tanvir Arafin,Secure Accelerators for Next-Generation Foundation Models (SAGE),2025-10-06,D00002,C00008
+G00033,500000,National Science Foundation (NSF),Elise D. Miller,Transforming Urban Underground Infrastructure,2025-10-06,D00008,C00025
+G00034,430000,National Science Foundation (NSF),Aditya Johri,Developing AI Literacy Among Undergraduate Engineering Students,2025-10-06,D00005,C00030
+G00035,1020000,Air Force Research Laboratory,Brett W. Josephson; Cameron Nowzari; Ali Khalid Raz; Daigo Shishika; Shima Mohebbi,AFCENT CEC Applied Research,2025-10-06,D00003,C00015
+G00036,55000,The Bernd Group,Ali Khalid Raz,MARAAI: Mission Assurance Reference Architecture for Autonomy Integration,2025-10-06,D00003,C00015
+G00037,380000,National Science Foundation (NSF),Weiwen Jiang; Lei Yang,QuAIM: Quantum Cyberinfrastructure with Automated Implementation Toolkits,2025-10-02,D00003,C00008
+G00038,544335,National Oceanic & Atmospheric Administration (NOAA),Celso Moller Ferreira,Developing Arctic Coastal Protection Solutions,2025-10-02,D00008,C00025
+G00039,250000,National Science Foundation (NSF),Weiwen Jiang,Synthesis Profiling and Verification of Quantum Circuits,2025-10-02,D00003,C00013
+G00040,4649740,National Institutes of Health (NIH),Siddhartha Sikdar,Network Modeling of Chronic Musculoskeletal Pain,2025-10-02,D00004,C00027
+G00041,1250000,National Science Foundation (NSF),Hemant Purohit,Resilient Sheltering Decision Support Using Explainable AI,2025-10-02,D00003,C00004
+G00042,934614,National Science Foundation (NSF),Ethan C. Ahn; Nathalia Peixoto; Jessica Rosenberg; Jill Nelson,RENEW: Nanofabrication Workforce Education,2025-10-02,D00004,C00022
+G00043,105885,Office of Naval Research (ONR),Ali Beheshti,Finite Element Crack Initiation and Propagation for Gear Steel,2025-09-22,D00006,C00023
+G00044,260550,U.S. Department of Defense,Massimiliano Albanese; Sushil Jajodia,DoD Cyber Service Academy,2025-09-22,D00003,C00010
+G00045,502222,National Science Foundation (NSF),Quentin Sanders,Continuous Fiber Prostheses for Children with Amputation,2025-09-15,D00004,C00028
+G00046,320000,National Science Foundation (NSF),Bo Han; Songqing Chen,OpenCIVAN Immersive Visualization Ecosystem,2025-09-15,D00003,C00030
+G00047,50000,Datalytica LLC,Duminda Wijesekera,Operational Technology Digital Twin and Scanning Support,2025-09-15,D00003,C00023
+G00048,8000,American Society for Engineering Education (ASEE),Shima Mohebbi,Engineering for One Planet Mini-Grant Program,2025-09-15,D00003,C00024
+G00049,150000,Defense Advanced Research Projects Agency (DARPA),Missy Cummings,Autonomy Standards and Ideals with Military Operational Values (ASIMOV),2025-09-08,D00005,C00016
+G00050,200000,National Science Foundation (NSF),Md Tanvir Arafin,CyberSTAR CyberTraining for Secure Transportation Autonomy,2025-09-08,D00002,C00010
+G00051,199910,Northern Virginia Emergency Response System,Shima Mohebbi; Michael R. Hieb,Drone as First Responder Feasibility Study,2025-09-08,D00003,C00015
+G00052,69904,U.S. Department of the Navy,Jose Bricio Neto,Persistent Airborne Counter UAS Surveillance,2025-09-02,D00002,C00020
+G00053,15000,National Science Foundation (NSF),Weiwen Jiang; Lei Yang,Quantum System Stability and Reproducibility Workshop,2025-08-25,D00003,C00008
+G00054,500000,National Science Foundation (NSF),Ziwei Zhu,Interpretable Neuro-Symbolic Learning for Reliable Ranking,2025-08-25,D00003,C00014
+G00055,99750,U.S. Department of the Army,Maryam Parsa,Automotive Research Center Modeling and Simulation,2025-08-25,D00006,C00023
+G00056,100000,National Science Foundation (NSF),Fei Li,Quantum Algorithms for Single-Cell Omics and Drug Discovery,2025-08-25,D00004,C00009
+G00057,296927,National Institutes of Health (NIH),Ningshi Yao,Robotic Eyes for Studying Human Eye Movement and Strabismus,2025-08-18,D00004,C00026
+G00058,512787,National Science Foundation (NSF),Shaghayegh Bagheri; Ali Beheshti; Caroline Dieckmann Hoemann,MRI: Acquisition of a 3D X-Ray Computed Tomography Scanner,2025-08-11,D00006,C00022
+G00059,45000,National Science Foundation (NSF),Kun Sun,CIRC Planning: Software Vulnerability Detection and Remediation Infrastructure,2025-08-03,D00003,C00013
+G00060,94711,Metal Improvement Company LLC,Ali Beheshti,Tribo-Corrosion Study of Nickel-Based Superalloys under Laser Peening,2025-08-03,D00006,C00024
+G00061,274265,National Science Foundation (NSF),Keren Zhou,DLToolkit: Performance Profiling Infrastructure for Scientific Deep Learning,2025-07-28,D00003,C00007
+G00062,599956,National Science Foundation (NSF),Antonis Anastasopoulos,CAREER: Grammar-Based Language Technologies for Data-Scarce Languages,2025-07-28,D00003,C00029
+G00063,275000,National Science Foundation (NSF),Bo Han,NeTS: Neural Content Representation for Immersive Video Streaming,2025-07-28,D00003,C00030
+G00064,50000,XSOC Corporation,Duminda Wijesekera; Matthew Jablonski,SENTINEL: Side-Channel Evaluation Techniques,2025-07-28,D00003,C00011
+G00065,300000,Virginia Innovation Partnership Authority,Liza Price Wilson Durant,CATAPULT: University-Linked Technology Acceleration,2025-07-28,D00005,C00004
+G00066,500000,Virginia Innovation Partnership Authority,Liza Price Wilson Durant,Commonwealth Cyber Initiative+ FY25,2025-07-28,D00005,C00010
+G00067,164834,Defense Advanced Research Projects Agency (DARPA),Peter Paris,Next Generation Electronic Surveillance Technology (NGEST),2025-07-14,D00002,C00019
+G00068,150000,Defense Advanced Research Projects Agency (DARPA),Missy Cummings,Autonomy Standards and Ideals with Military Operational Values,2025-07-14,D00005,C00016
+G00069,78619,Virginia Innovation Partnership Authority,Liza Price Wilson Durant,Cybersecurity Field Training Experience (C-FTE),2025-07-07,D00005,C00010
+G00070,450000,Virginia Innovation Partnership Authority,Liza Price Wilson Durant,Commonwealth Cyber Initiative Fellow Program,2025-07-07,D00005,C00010
+G00071,34596,U.S. Department of Defense (DOD),Nicholas Kent Clark,Time Series Analysis Distributed Computing,2025-06-16,D00002,C00003
+G00072,75000,Virginia Innovation Partnership Authority,Foteini Baldimtsi,Combating Cryptographic Risk,2025-06-16,D00003,C00010
+G00073,75000,Virginia Innovation Partnership Authority,Kun Sun,Securing Computer Code using Dynamic Digital Signatures,2025-06-16,D00003,C00013
+G00074,75000,Virginia Innovation Partnership Authority,Brian L. Mark; Kai Zeng,Secure Mesh Communications with Multi-Protocol Handover,2025-06-16,D00002,C00012
+G00075,75000,Virginia Innovation Partnership Authority,Massieh Kordi Boroujeny; Kai Zeng,Distortion-Free Multi-bit Watermarking for Large Language Models,2025-06-16,D00002,C00014
+G00076,75000,Virginia Innovation Partnership Authority,Mingkui Wei,Obfuscating Text and Images for Data Loss Prevention,2025-06-16,D00003,C00014
+G00077,442147,Virginia Innovation Partnership Authority,Liza Price Wilson Durant,CCI Traineeship Program in Cybersecurity,2025-06-16,D00005,C00010
+G00078,50000,National Science Foundation (NSF),Bo Han,I-Corps: Immersive Telepresence Translation Potential,2025-05-27,D00003,C00030
+G00079,295081,National Science Foundation (NSF),Thanhvu H. Nguyen,CAREER: NeuralSAT Constraint-Solving Framework,2025-05-19,D00003,C00013
+G00080,1122655,National Institutes of Health (NIH),Lily Wang,Interpretable Statistical Learning for Brain Imaging,2025-05-19,D00007,C00026
+G00081,350000,Air Force Research Laboratory (AFRL),Ali Khalid Raz,MEADOW: Distributed Optimal Workflow Algorithms,2025-05-05,D00003,C00006
+G00082,200000,U.S. Department of Energy (DOE),Weiwen Jiang,MACH-Q Quantum Software Stack,2025-05-05,D00003,C00008
+G00083,275000,Virginia Department of Energy,Liling Huang,Installation of E2 Energy Exploration Center,2025-05-05,D00002,C00022
+G00084,1500,U.S. Department of Defense (DOD),Rochelle R. Jones,Drone Detection and ID Market Survey,2025-04-14,D00001,C00020
+G00085,42000,University of Virginia,Zhuangdi Zhu,Federated Learning for Secure Threat Detection,2025-04-14,D00003,C00014
+G00086,454079,Naval Sea Systems Command,Antonis Anastasopoulos,STTR Phase II: Digital Engineering Knowledge Extraction,2025-04-07,D00003,C00004
+G00087,60000,Air Force Research Laboratory,Missy Cummings,Machine Learning for Space Situation Awareness,2025-03-31,D00005,C00015
+G00088,112000,Griffiss Institute,Kamaljeet Sanghera; Mihai Boicu,AI Defense Opportunities for Students,2025-03-31,D00003,C00001
+G00089,75000,Federal Highway Administration (FHWA),Duminda Wijesekera,Driving Simulator Support Research Phase I,2025-03-17,D00003,C00023
+G00090,65648,U.S. Department of Energy (DOE),Keren Zhou,GPU Modeling for HPC Smart Simulation,2025-03-10,D00003,C00008
+G00091,10000,National Institutes of Health (NIH),Jenny M. Phan,AIM-AHEAD Training Program Cohort,2025-03-10,D00009,C00004
+G00092,100000,Virginia Innovation Partnership Authority,Liza Price Wilson Durant,CCI Experiential Learning in Cybersecurity,2025-03-03,D00005,C00010
+G00093,274000,National Science Foundation (NSF),Quentin Sanders,Advanced Prosthetic Socket Technologies for Pediatric Patients,2025-03-03,D00004,C00028
+G00094,85000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Advanced RF Signal Characterization for Distributed Sensing,2025-02-24,D00002,C00019
+G00095,510000,National Institutes of Health (NIH),Siddhartha Sikdar,Neuromechanics-Based Assessment of Movement Disorders,2025-02-24,D00004,C00027
+G00096,300000,National Science Foundation (NSF),Bo Han,Collaborative Research: Next-Gen Immersive Communication Systems,2025-02-24,D00003,C00012
+G00097,125000,Office of Naval Research (ONR),Ali Beheshti,Advanced Gear Surface Durability and Failure Modeling,2025-02-10,D00006,C00024
+G00098,75000,Virginia Innovation Partnership Authority,Kun Sun,Trusted Compiler Infrastructure for Secure Systems,2025-02-10,D00003,C00013
+G00099,500000,National Science Foundation (NSF),Emma Zhang,CAREER: Data-Centric Infrastructure for Sustainable Urban Systems,2025-02-10,D00008,C00025
+G00100,98000,National Science Foundation (NSF),Antonis Anastasopoulos,Planning Grant: Language Technologies for Underrepresented Communities,2025-02-03,D00003,C00029
+G00101,60000,George Mason University Foundation,Pei Dong,Phase-Change Thermal Management for Aerospace Electronics,2025-01-27,D00006,C00022
+G00102,220000,National Institutes of Health (NIH),Abolfazl Safikhani,Multimodal Biomarkers for Early Alzheimer’s Detection,2025-01-27,D00007,C00002
+G00103,150000,Defense Advanced Research Projects Agency (DARPA),Missy Cummings,Human-Autonomy Teaming Metrics and Validation,2025-01-21,D00005,C00016
+G00104,90000,U.S. Department of the Navy,Jose Bricio Neto,Autonomous Maritime Surveillance Using UAV Swarms,2025-01-21,D00002,C00015
+G00105,120000,National Science Foundation (NSF),Keren Zhou,Efficient Parallel Training for Large-Scale Scientific AI Models,2025-01-13,D00003,C00007
+G00106,45000,U.S. Department of Transportation (USDOT),Lance C. Sherry,Airport Surface Operations Optimization Study,2025-01-13,D00001,C00006
+G00107,125000,National Science Foundation (NSF),Ziwei Zhu,Robust Ranking Algorithms under Distribution Shift,2024-12-09,D00003,C00001
+G00108,85000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Distributed Spectrum Monitoring for Resilient Communications,2024-12-09,D00002,C00021
+G00109,300000,National Institutes of Health (NIH),Siddhartha Sikdar,Neuromechanics-Based Wearable Sensing for Rehabilitation,2024-12-02,D00004,C00027
+G00110,210000,National Science Foundation (NSF),Bo Han,Collaborative Research: Edge Intelligence for Immersive Media Systems,2024-11-25,D00003,C00030
+G00111,60000,Office of Naval Research (ONR),Ali Beheshti,Fatigue Crack Growth Modeling for Naval Gear Systems,2024-11-18,D00006,C00024
+G00112,500000,National Science Foundation (NSF),Emma Zhang,Data-Driven Resilience of Urban Infrastructure Networks,2024-11-18,D00008,C00025
+G00113,72000,George Mason University Foundation,Pei Dong,Advanced Thermal Interfaces for Electric Propulsion Systems,2024-11-04,D00006,C00022
+G00114,45000,U.S. Department of Energy (DOE),Weiwen Jiang,Quantum Software Toolchains for Scalable HPC,2024-10-28,D00003,C00008
+G00115,180000,National Science Foundation (NSF),Antonis Anastasopoulos,Low-Resource Language Processing for Crisis Response,2024-10-21,D00003,C00029
+G00116,95000,National Institutes of Health (NIH),Abolfazl Safikhani,Statistical Learning for Neurodegenerative Disease Progression,2024-10-14,D00007,C00002
+G00117,275000,National Science Foundation (NSF),Quentin Sanders,Adaptive Pediatric Prosthetics using Soft Robotics,2024-09-30,D00004,C00028
+G00118,400000,Air Force Research Laboratory (AFRL),Ali Khalid Raz,Distributed Autonomous Systems for Contested Environments,2024-09-16,D00003,C00015
+G00119,120000,National Science Foundation (NSF),Keren Zhou,Scalable Training Pipelines for Scientific Foundation Models,2024-09-09,D00003,C00007
+G00120,95000,U.S. Department of Transportation (USDOT),Lance C. Sherry,NextGen Air Traffic Management Simulation,2024-08-26,D00001,C00023
+G00121,250000,National Science Foundation (NSF),Bo Han,Trustworthy AI for Immersive Telepresence Systems,2024-08-19,D00003,C00016
+G00122,65000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Adaptive Signal Processing for Tactical Networks,2024-08-12,D00002,C00019
+G00123,300000,National Institutes of Health (NIH),Siddhartha Sikdar,Neural Control of Movement for Rehabilitation Robotics,2024-07-29,D00004,C00018
+G00124,90000,Office of Naval Research (ONR),Ali Beheshti,Advanced Surface Engineering for High-Cycle Fatigue Resistance,2024-07-15,D00006,C00024
+G00125,200000,National Science Foundation (NSF),Ziwei Zhu,Learning-to-Rank Models for Information Retrieval at Scale,2024-06-24,D00003,C00001
+G00126,110000,George Mason University Foundation,Pei Dong,High-Performance Cooling for Power Electronics,2024-06-10,D00006,C00022
+G00127,50000,National Science Foundation (NSF),Antonis Anastasopoulos,Workshop on Language Technologies for Humanitarian Applications,2024-05-20,D00003,C00029
+G00128,175000,National Institutes of Health (NIH),Abolfazl Safikhani,Multimodal Statistical Models for Brain Connectivity Analysis,2024-04-22,D00007,C00002
+G00129,80000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Secure Waveform Design for Distributed Sensing,2024-04-08,D00002,C00020
+G00130,60000,Federal Highway Administration (FHWA),Lance C. Sherry,Resilient Transportation Infrastructure Simulation Models,2024-03-25,D00001,C00023
+G00131,140000,National Science Foundation (NSF),Bo Han,Collaborative Research: Edge-Aware Immersive Analytics,2024-02-12,D00003,C00030
+G00132,95000,Office of Naval Research (ONR),Ali Beheshti,Probabilistic Modeling of Surface Degradation in Naval Systems,2024-01-29,D00006,C00024
+G00133,180000,National Institutes of Health (NIH),Siddhartha Sikdar,Quantitative Assessment of Muscle Coordination in Neurological Disorders,2024-01-22,D00004,C00027
+G00134,220000,National Science Foundation (NSF),Emma Zhang,Data-Driven Flood Risk Modeling for Urban Infrastructure,2024-01-08,D00008,C00025
+G00135,60000,U.S. Department of Transportation (USDOT),Lance C. Sherry,Airport Capacity and Delay Modeling Using Data Analytics,2023-12-11,D00001,C00004
+G00136,125000,National Science Foundation (NSF),Antonis Anastasopoulos,Language Technologies for Crisis Mapping and Response,2023-11-27,D00003,C00029
+G00137,95000,National Institutes of Health (NIH),Abolfazl Safikhani,Statistical Models of Brain Network Degeneration,2023-11-13,D00007,C00002
+G00138,300000,Air Force Research Laboratory (AFRL),Ali Khalid Raz,Distributed Decision-Making for Autonomous Defense Systems,2023-10-30,D00003,C00015
+G00139,75000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Resilient RF Signal Processing for Contested Environments,2023-10-16,D00002,C00019
+G00140,200000,National Science Foundation (NSF),Ziwei Zhu,Robust Learning-to-Rank for Adversarial Information Retrieval,2023-10-02,D00003,C00001
+G00141,100000,Office of Naval Research (ONR),Ali Beheshti,Advanced Gear Fatigue Modeling under Variable Loads,2023-09-18,D00006,C00024
+G00142,275000,National Science Foundation (NSF),Quentin Sanders,Soft Robotic Prosthetic Interfaces for Pediatric Care,2023-09-05,D00004,C00028
+G00143,120000,National Science Foundation (NSF),Keren Zhou,Scalable Optimization Methods for Scientific Machine Learning,2023-08-21,D00003,C00006
+G00144,85000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Adaptive Spectrum Utilization for Tactical Communications,2023-08-07,D00002,C00021
+G00145,50000,National Science Foundation (NSF),Antonis Anastasopoulos,Workshop on Low-Resource Language Technologies,2023-07-24,D00003,C00029
+G00146,190000,National Institutes of Health (NIH),Siddhartha Sikdar,Neuromuscular Control Modeling for Injury Prevention,2023-07-10,D00004,C00027
+G00147,65000,George Mason University Foundation,Pei Dong,High-Efficiency Thermal Systems for Aerospace Platforms,2023-06-26,D00006,C00022
+G00148,180000,National Science Foundation (NSF),Bo Han,Immersive Analytics Platforms for Smart Cities,2023-06-12,D00003,C00030
+G00149,95000,Office of Naval Research (ONR),Ali Beheshti,Surface Integrity Modeling for Naval Mechanical Systems,2023-05-22,D00006,C00024
+G00150,210000,National Institutes of Health (NIH),Siddhartha Sikdar,Neuromuscular Sensing for Rehabilitation and Human Performance,2023-05-08,D00004,C00027
+G00151,125000,National Science Foundation (NSF),Antonis Anastasopoulos,Language Technologies for Disaster Response Coordination,2023-04-17,D00003,C00029
+G00152,75000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Adaptive RF Waveform Design for Distributed Sensing Networks,2023-03-27,D00002,C00019
+G00153,300000,Air Force Research Laboratory (AFRL),Ali Khalid Raz,Autonomous Mission Planning under Communication Constraints,2023-03-13,D00003,C00015
+G00154,200000,National Science Foundation (NSF),Ziwei Zhu,Learning-to-Rank Algorithms for Large-Scale Retrieval Systems,2023-02-27,D00003,C00001
+G00155,85000,National Institutes of Health (NIH),Abolfazl Safikhani,Statistical Modeling of Functional Brain Connectivity,2023-02-13,D00007,C00002
+G00156,110000,U.S. Department of Transportation (USDOT),Lance C. Sherry,Data-Driven Models for Airport Congestion Mitigation,2023-01-30,D00001,C00004
+G00157,60000,George Mason University Foundation,Pei Dong,Advanced Heat Dissipation Technologies for Power Electronics,2023-01-16,D00006,C00008
+G00158,175000,National Science Foundation (NSF),Quentin Sanders,Soft Prosthetic Interfaces for Pediatric Rehabilitation,2022-12-05,D00004,C00028
+G00159,95000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Secure Distributed Signal Processing Architectures,2022-11-14,D00002,C00007
+G00160,250000,National Science Foundation (NSF),Emma Zhang,Resilient Infrastructure Modeling under Climate Uncertainty,2022-10-24,D00008,C00023
+G00161,120000,National Institutes of Health (NIH),Siddhartha Sikdar,Modeling Human Movement Variability for Injury Prevention,2022-09-12,D00004,C00027
+G00162,90000,Office of Naval Research (ONR),Ali Beheshti,Fatigue and Wear Prediction in High-Load Gear Systems,2022-08-22,D00006,C00024
+G00163,200000,National Science Foundation (NSF),Antonis Anastasopoulos,Computational Linguistics for Low-Resource Languages,2022-07-11,D00003,C00029
+G00164,70000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Adaptive Spectrum Sharing for Tactical Networks,2022-06-06,D00002,C00021
+G00165,150000,National Science Foundation (NSF),Ziwei Zhu,Robust Ranking Models for Noisy Information Environments,2022-05-02,D00003,C00001
+G00166,95000,National Institutes of Health (NIH),Abolfazl Safikhani,Statistical Analysis of Neurodegenerative Disease Progression,2022-04-11,D00007,C00002
+G00167,60000,U.S. Department of Transportation (USDOT),Lance C. Sherry,Simulation-Based Evaluation of Airport Operations,2022-03-14,D00001,C00023
+G00168,85000,George Mason University Foundation,Pei Dong,Advanced Thermal Management for Electric Aircraft Systems,2022-02-07,D00006,C00008
+G00169,100000,National Science Foundation (NSF),Bo Han,Immersive Communication Systems for Collaborative Analytics,2022-01-10,D00003,C00030
+G00170,90000,National Science Foundation (NSF),Antonis Anastasopoulos,Computational Tools for Language Preservation in Crisis Contexts,2022-01-03,D00003,C00029
+G00171,140000,National Institutes of Health (NIH),Siddhartha Sikdar,Sensor-Based Modeling of Neuromuscular Coordination,2021-12-06,D00004,C00027
+G00172,200000,National Science Foundation (NSF),Ziwei Zhu,Learning-to-Rank Methods for Robust Information Retrieval,2021-11-15,D00003,C00001
+G00173,85000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Adaptive RF Architectures for Distributed Sensing,2021-10-18,D00002,C00020
+G00174,110000,Office of Naval Research (ONR),Ali Beheshti,Modeling Gear Contact Fatigue under Extreme Loading,2021-09-20,D00006,C00024
+G00175,175000,National Institutes of Health (NIH),Abolfazl Safikhani,Statistical Modeling of Functional Brain Networks in Aging,2021-08-23,D00007,C00002
+G00176,250000,National Science Foundation (NSF),Emma Zhang,Infrastructure Resilience Modeling for Climate Adaptation,2021-07-26,D00008,C00023
+G00177,60000,U.S. Department of Transportation (USDOT),Lance C. Sherry,Data-Driven Assessment of Airport Operational Resilience,2021-06-14,D00001,C00023
+G00178,95000,George Mason University Foundation,Pei Dong,Advanced Thermal Systems for Electric Aviation,2021-05-17,D00006,C00008
+G00179,150000,National Science Foundation (NSF),Bo Han,Immersive Analytics Frameworks for Distributed Collaboration,2021-04-12,D00003,C00030
+G00180,120000,National Institutes of Health (NIH),Siddhartha Sikdar,Neuromechanical Modeling for Post-Stroke Rehabilitation,2021-03-08,D00004,C00027
+G00181,70000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Resilient Spectrum Sharing Techniques for Tactical Networks,2021-02-08,D00002,C00021
+G00182,100000,National Science Foundation (NSF),Antonis Anastasopoulos,Low-Resource Language Processing for Emergency Response,2021-01-11,D00003,C00029
+G00183,180000,National Science Foundation (NSF),Antonis Anastasopoulos,Low-Resource Language Technologies for Crisis Response,2020-12-07,D00003,C00029
+G00184,95000,National Institutes of Health (NIH),Siddhartha Sikdar,Musculoskeletal Ultrasound-Based Biomarkers for Rehabilitation Monitoring,2020-11-16,D00004,C00026
+G00185,210000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Distributed RF Signal Processing for Tactical Edge Networks,2020-10-19,D00002,C00019
+G00186,130000,Office of Naval Research (ONR),Ali Beheshti,Surface Integrity Modeling of Naval Propulsion Materials,2020-09-21,D00006,C00024
+G00187,275000,National Science Foundation (NSF),Bo Han,Immersive Telepresence and Networked Virtual Reality Systems,2020-08-24,D00003,C00030
+G00188,85000,National Institutes of Health (NIH),Abolfazl Safikhani,Statistical Learning Models for Neurodegenerative Disease Progression,2020-07-20,D00007,C00002
+G00189,160000,U.S. Department of Transportation (USDOT),Lance C. Sherry,Stochastic Modeling of National Airspace System Disruptions,2020-06-15,D00001,C00023
+G00190,90000,George Mason University Foundation,Pei Dong,Advanced Heat Transfer Materials for Electrified Transportation,2020-05-18,D00006,C00022
+G00191,200000,National Science Foundation (NSF),Emma Zhang,Resilient Infrastructure Analytics for Extreme Weather Events,2020-04-13,D00008,C00024
+G00192,120000,National Institutes of Health (NIH),Siddhartha Sikdar,Neuromechanical Signal Fusion for Upper Limb Rehabilitation,2020-03-09,D00004,C00027
+G00193,75000,U.S. Department of Defense (DOD),Nicholas Kent Clark,Spectrum-Aware Architectures for Contested Communications,2020-02-10,D00002,C00021
+G00194,140000,National Science Foundation (NSF),Antonis Anastasopoulos,Computational Morphology for Under-Resourced Languages,2020-01-13,D00003,C00029
