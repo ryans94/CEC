@@ -6,7 +6,7 @@ def clean_csv(path):
     df = df.loc[:, ~df.columns.str.contains("^Unnamed")]
     return df
 
-conn = sqlite3.connect("data/db/cec.db")
+conn = sqlite3.connect("cec.db")
 conn.execute("PRAGMA foreign_keys = ON")
 
 clean_csv("data/csv/departments.csv").to_sql(
@@ -33,8 +33,13 @@ pd.DataFrame(cap_dept_rows).to_sql(
     "capability_departments", conn, if_exists="append", index=False
 )
 
+clean_csv("data/csv/faculty.csv").to_sql(
+    "faculty", conn, if_exists="append", index=False
+)
+
 clean_csv("data/csv/grants_clean.csv").to_sql(
     "grants", conn, if_exists="append", index=False
 )
+
 
 conn.close()

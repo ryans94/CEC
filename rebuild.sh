@@ -1,5 +1,5 @@
 
-DB='data/db/cec.db'
+DB='cec.db'
 
 #remove old db
 echo 'Deleting old db...'
