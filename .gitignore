@@ -1,3 +1,4 @@
 # SQLite
 *.db
 .DS_Store
+*.html
