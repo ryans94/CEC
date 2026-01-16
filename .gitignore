@@ -1,2 +1,3 @@
 # SQLite
 *.db
+.DS_Store
